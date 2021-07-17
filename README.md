@@ -72,10 +72,10 @@
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
-  <code><img height="40" src="https://coders.education/img/logo.svg"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
-  <code><img height="40" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"></code>
+  <code><img height="40" src="https://scontent.fgyd9-1.fna.fbcdn.net/v/t1.6435-9/67207658_721722878275187_3170178875153973248_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=_6eyA8RRQdMAX8ENohj&_nc_ht=scontent.fgyd9-1.fna&oh=31ace1a8060c066b3da50f241df43698&oe=60F7FE13"></code>
+  <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/udemy-2-logo.png"></code>  
+  <code><img height="40" src="https://image.pngaaa.com/893/94893-middle.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png"></code>
   
   </p>
 &nbsp;
