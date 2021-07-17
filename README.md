@@ -16,28 +16,28 @@
        width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
- 
+  &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ceyhunmammadov/">
   <img align="center" 
        alt="Linkdein" 
        width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
-
+ &nbsp;&nbsp;
   <a href="https://www.facebook.com/ceyhunnmammadov/">
   <img align="center" 
        alt="Facebook" 
        width="30px" 
        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />
   </a>
-
+ &nbsp;&nbsp;
 <a href="https://twitter.com/ceyhunmammadov_">
   <img align="center" 
        alt="Twitter" 
        width="30px" 
        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
   </a>
- 
+  &nbsp;&nbsp;
 <a href="mailto:mammadovceyhunn@gmail.com">
   <img align="center" 
        alt="Gmail" 
@@ -84,10 +84,10 @@
   
   
   
-  <code><img height="30" src=""></code> &nbsp;&nbsp;
+  <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code> &nbsp;&nbsp;
   <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png"></code>   &nbsp;&nbsp;
-  <code><img height="30" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code> &nbsp;&nbsp;
-  <code><img height="30" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code> 
+  <code><img height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/udemy-2-logo.png"></code> &nbsp;&nbsp;
+  <code><img height="30" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"></code> 
   
   </p>
 &nbsp;
@@ -100,13 +100,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://github.com/ceyhunmammadovv-code?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunmammadovv-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Ceyhun's favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/ceyhunmammadovv">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=ceyhunmammadovv&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
