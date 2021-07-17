@@ -69,11 +69,11 @@
   </p>
   
   <p align="center">
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>  &nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code> &nbsp;&nbsp;
+<code><img height="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"></code> &nbsp;&nbsp;
 <code><img height="50" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
   </p>
   
