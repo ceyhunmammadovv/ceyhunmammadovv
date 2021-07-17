@@ -28,8 +28,7 @@
   <img align="center" 
        alt="Facebook" 
        width="22px" 
-       src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Ffacebook%2F69263&psig=AOvVaw1kpnHq-iTy9q5j1a4Wh7wJ&ust=1626638403997000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCslbTy6vECFQAAAAAdAAAAABAY![image](https://user-images.githubusercontent.com/85924368/126048166-5b17eb1a-4061-4a55-9977-e6ce55b87b52.png)
-" />
+       src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" />
   </a>
   
 <a href="mailto:mammadovceyhunn@gmail.com">
