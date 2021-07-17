@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Hello World 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="300px" height="100px">
+       width="30px">
   </h2></h1>
 
 
