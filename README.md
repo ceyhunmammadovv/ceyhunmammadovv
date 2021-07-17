@@ -72,10 +72,10 @@
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
+  <code><img height="40" src="https://coders.education/img/logo.svg"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
+  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"></code>
+  <code><img height="40" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"></code>
   
   </p>
 &nbsp;
