@@ -16,28 +16,28 @@
        width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
-  
+  <br/>
 <a href="https://www.linkedin.com/in/ceyhunmammadov/">
   <img align="center" 
        alt="Linkdein" 
        width="30px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
-
+<br/>
   <a href="https://www.facebook.com/ceyhunnmammadov/">
   <img align="center" 
        alt="Facebook" 
        width="30px" 
        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />
   </a>
-  
+  <br/>
 <a href="https://twitter.com/ceyhunmammadov_">
   <img align="center" 
        alt="Twitter" 
        width="30px" 
        src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />
   </a>
-  
+  <br/>
 <a href="mailto:mammadovceyhunn@gmail.com">
   <img align="center" 
        alt="Gmail" 
@@ -53,7 +53,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+<br/> <br/>![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
 
 &nbsp;
 
