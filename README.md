@@ -73,7 +73,7 @@
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
   <code><img height="40" src="https://scontent.fgyd9-1.fna.fbcdn.net/v/t1.6435-9/67207658_721722878275187_3170178875153973248_n.png?_nc_cat=100&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=_6eyA8RRQdMAX8ENohj&_nc_ht=scontent.fgyd9-1.fna&oh=31ace1a8060c066b3da50f241df43698&oe=60F7FE13"></code>
-  <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/udemy-2-logo.png"></code>  
+  <code><img height="40" src="https://o.remove.bg/downloads/382fda19-7bf3-4503-8f04-c6680e96e978/d29daf6620eb8de8cab16ad7fa49be42-removebg-preview.png"></code>  
   <code><img height="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
   <code><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.png"></code>
   
