@@ -10,7 +10,7 @@
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/ceyhunmammadoovv/">
+<a href="https://www.instagram.com/ceyhunmammadovv/">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="30px" 
